@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("Prática 02 - Luiz Marcel");
 		System.out.println("modificando o arquivo");
 		System.out.println("novo branch");
+		System.out.println("teste do segundo branch");
 
 	}
 
